@@ -12,9 +12,6 @@
 *.iws
 .idea/
 
-# Maven
-target/
-
 # Gradle
 build
 .gradle
@@ -38,3 +35,4 @@ log/
 *.pid
 *.orig
 temp/
+/target/
