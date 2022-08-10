@@ -8,7 +8,7 @@ import lombok.Data;
 @AllArgsConstructor
 public class Trader {
 
-    private String name;//名字
+    private String name;//名字 223
 
     private String city;//城市
 }
